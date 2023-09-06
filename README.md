@@ -9,7 +9,7 @@ The data is available on Kaggle: https://www.kaggle.com/datasets/muhannadtuameh/
 
 # Methodology
 
-<img width="400" alt="image" src="https://github.com/muhannad125/recognition-of-physical-exercises/assets/61150919/4fbd8761-5538-428d-a45c-e9b3479125e4">
+<img width="400" alt="image" src="https://github.com/muhannad125/recognition-of-physical-exercises/assets/61150919/d3299a98-68c8-4c89-89c5-9ca58030a69b">
 
 The input of the model is a video of a human doing the exercise, and the output is the name of the exercise and a number of how many times the exercise have been done. The repetition counter should update the number of the repetition based on the change of the pose during the video.
 
